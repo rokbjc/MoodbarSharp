@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/MoodbarSharp/MoodbarSharp.csproj" />
+  <Project Path="tests/MoodbarSharp.Tests/MoodbarSharp.Tests.csproj" />
+  <Project Path="samples/MoodbarSample/MoodbarSample.csproj" />
+</Solution>
